@@ -1,6 +1,6 @@
 > “In God we trust, all others must bring data.” - W. E. Deming
 
-## About me 👩
+## About me
 - 👋 Hi, I’m @flapaixao
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Power BI and Python
