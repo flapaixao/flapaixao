@@ -5,10 +5,13 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Power BI and Python
 - 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/flaviapaixao/)](https://www.linkedin.com/in/flaviapaixao/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/flaviapaixao/)](https://www.linkedin.com/in/flaviapaixao/) | 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:flaviapaixao91@outlook.com) |
+- [Here you can see my achievements on Digital Innovation One Plataform:](https://web.dio.me/users/flaviapaixao91/?tab=achievements)
 
 ## About my career
 Mechanical Engineer passionate about numbers and technology, I recently started a career migration to Data Science.
+
 
 I am looking for opportunities to work in the area of ​​Data Analysis.
 
