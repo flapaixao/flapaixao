@@ -15,6 +15,7 @@ I am looking for opportunities to work in the area of ​​Data Analysis.
 My GitHub is currently Under Construction 🚧 and I'm constantly updating to show the projects I'm working on.
 
 These are some Projects from specialization courses I'm taking, which are:
+- [DSA - Microsoft Power BI para Business Intelligence e Data Science]() | Completed ✔️
 - [DIO / Santander - Bootcamp Ciência de Dados com Python]() | Completed ✔️
 - [DIO - Formação Power BI Analyst](https://github.com/flapaixao/dio_projects) | On going ⌛
 - [DSA - Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://github.com/flapaixao/dsa_projects) | On going ⌛
