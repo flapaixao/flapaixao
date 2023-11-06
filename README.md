@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Power BI and Python
 - 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/flaviapaixao/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/flaviapaixao/)](https://www.linkedin.com/in/flaviapaixao/)
 
 ## About me 👩
 Mechanical Engineer passionate about numbers and technology, I recently started a career migration to Data Science.
