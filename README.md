@@ -22,8 +22,8 @@ These are some Projects from specialization courses I'm taking, which are:
 - [DIO - Santander Bootcamp - Ciência de Dados com Python](https://github.com/flapaixao/dio_projects/blob/main/Santander%20Bootcamp%20-%20Ci%C3%AAncia%20de%20Dados%20com%20Python/readme.md) | Completed ✔️
 - [DIO - Formação Power BI Analyst](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst) | Completed ✔️
 - [DSA - Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://github.com/flapaixao/dsa_projects/tree/main/Fundamentos%20de%20Linguagem%20Python%20Para%20An%C3%A1lise%20de%20Dados%20e%20Data%20Science%20(Com%20ChatGPT)) | On going ⌛
-
-
+- [DIO - Formação Lógica de Programação](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o) | On going ⌛
+- 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
