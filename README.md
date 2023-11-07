@@ -2,7 +2,7 @@
 
 ## About me
 - 👋 Hi, I’m @flapaixao
-- 👀 I’m interested in Data Engineering
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Power BI and Python
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/flaviapaixao/)](https://www.linkedin.com/in/flaviapaixao/) | 
