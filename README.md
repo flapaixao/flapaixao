@@ -18,11 +18,11 @@ I am looking for opportunities to work in the area of ​​Data Analysis.
 My GitHub is currently Under Construction 🚧 and I'm constantly updating to show the projects I'm working on.
 
 These are some Projects from specialization courses I'm taking, which are:
-- [DSA - Microsoft Power BI para Business Intelligence e Data Science](https://github.com/flapaixao/dsa_projects/tree/main/Microsoft%20Power%20BI%20Para%20Business%20Intelligence%20e%20Data%20Science) | Completed ✔️
-- [DIO - Santander Bootcamp - Ciência de Dados com Python](https://github.com/flapaixao/dio_projects/blob/main/Santander%20Bootcamp%20-%20Ci%C3%AAncia%20de%20Dados%20com%20Python/readme.md) | Completed ✔️
-- [DIO - Formação Power BI Analyst](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst) | Completed ✔️
-- [DSA - Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://github.com/flapaixao/dsa_projects/tree/main/Fundamentos%20de%20Linguagem%20Python%20Para%20An%C3%A1lise%20de%20Dados%20e%20Data%20Science%20(Com%20ChatGPT)) | On going ⌛
-- [DIO - Formação Lógica de Programação](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o) | On going ⌛
+- [Microsoft Power BI para Business Intelligence e Data Science](https://github.com/flapaixao/dsa_projects/tree/main/Microsoft%20Power%20BI%20Para%20Business%20Intelligence%20e%20Data%20Science) | Data Science Academy | Completed ✔️
+- [Santander Bootcamp - Ciência de Dados com Python](https://github.com/flapaixao/dio_projects/blob/main/Santander%20Bootcamp%20-%20Ci%C3%AAncia%20de%20Dados%20com%20Python/readme.md) | DIO | Completed ✔️
+- [Formação Power BI Analyst](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst) | DIO | Completed ✔️
+- [Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://github.com/flapaixao/dsa_projects/tree/main/Fundamentos%20de%20Linguagem%20Python%20Para%20An%C3%A1lise%20de%20Dados%20e%20Data%20Science%20(Com%20ChatGPT)) | Data Science Academy | On going ⌛
+- [Formação Lógica de Programação | Data Science Academy](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o) | DIO | On going ⌛
   
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
