@@ -19,7 +19,7 @@ My GitHub is currently Under Construction 🚧 and I'm constantly updating to sh
 
 These are some Projects from specialization courses I'm taking, which are:
 
-| Curso | Plataform | Nível | Carga Horária | End Date | Status | Projects |
+| Course | Plataform | Level | Workload | End Date | Status | Projects |
 | ----- | :-------: | :---: | :-----------: | :------: | :----: | :------: |
 | Microsoft Power BI para Business Intelligence e Data Science | Data Science Academy | Intermediate | 72 hrs | 15/08/2023 | ✔️ | [🔗](https://github.com/flapaixao/dsa_projects/tree/main/Microsoft%20Power%20BI%20Para%20Business%20Intelligence%20e%20Data%20Science) |
 | Santander Bootcamp Ciência de Dados com Python | DIO | Intermediate | 89 hrs | 20/10/2023 | ✔️ | [🔗](https://github.com/flapaixao/dio_projects/blob/main/Santander%20Bootcamp%20-%20Ci%C3%AAncia%20de%20Dados%20com%20Python/readme.md) |
