@@ -18,15 +18,16 @@ I am looking for opportunities to work in the area of ​​Data Analysis.
 My GitHub is currently Under Construction 🚧 and I'm constantly updating to show the projects I'm working on.
 
 These are some Projects from specialization courses I'm taking, which are:
-- [Microsoft Power BI para Business Intelligence e Data Science](https://github.com/flapaixao/dsa_projects/tree/main/Microsoft%20Power%20BI%20Para%20Business%20Intelligence%20e%20Data%20Science) | Data Science Academy | Completed ✔️
-- [Santander Bootcamp - Ciência de Dados com Python](https://github.com/flapaixao/dio_projects/blob/main/Santander%20Bootcamp%20-%20Ci%C3%AAncia%20de%20Dados%20com%20Python/readme.md) | DIO | Completed ✔️
-- [Formação Power BI Analyst](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst) | DIO | Completed ✔️
-- [Formação Lógica de Programação](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o) | DIO | Completed ✔️
-- [Formação SQL Database Specialist](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20SQL%20Database%20Specialist) | DIO | On going ⌛
 
-- [Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://github.com/flapaixao/dsa_projects/tree/main/Fundamentos%20de%20Linguagem%20Python%20Para%20An%C3%A1lise%20de%20Dados%20e%20Data%20Science%20(Com%20ChatGPT)) | Data Science Academy | On going ⌛
+| Curso | Plataform | Nível | Carga Horária | End Date | Status | Projects |
+| ----- | :-------: | :---: | :-----------: | :------: | :----: | :------: |
+| Microsoft Power BI para Business Intelligence e Data Science | Data Science Academy | Intermediate | 72 hrs | 15/08/2023 | ✔️ | [🔗](https://github.com/flapaixao/dsa_projects/tree/main/Microsoft%20Power%20BI%20Para%20Business%20Intelligence%20e%20Data%20Science) |
+| Santander Bootcamp Ciência de Dados com Python | DIO | Intermediate | 89 hrs | 20/10/2023 | ✔️ | [🔗](https://github.com/flapaixao/dio_projects/blob/main/Santander%20Bootcamp%20-%20Ci%C3%AAncia%20de%20Dados%20com%20Python/readme.md) |
+| Formação Power BI Analyst | DIO | Intermediate | 60 hrs | 07/11/2023| ✔️ | [🔗](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst) | 
+| Formação Lógica de Programação | DIO | Basic | 41 hrs | 11/11/2023 | ✔️ |[🔗](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o) |
+| Formação SQL Database Specialist | DIO | Advanced | 72 hrs | ---- | ⌛ | [🔗](https://github.com/flapaixao/dio_projects/tree/main/Forma%C3%A7%C3%A3o%20SQL%20Database%20Specialist) |
+| Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT) | Data Science Academy | Advanced | 72 hrs | ---- | ⌛ | [🔗](https://github.com/flapaixao/dsa_projects/tree/main/Fundamentos%20de%20Linguagem%20Python%20Para%20An%C3%A1lise%20de%20Dados%20e%20Data%20Science%20(Com%20ChatGPT)) | Data Science Academy | On going ⌛
 
-  
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
